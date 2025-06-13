@@ -1,6 +1,6 @@
-# Project Name
+# Mini ERP
 
-Short description of your project.
+Basic ERP System with focus on Inventory and Sales functionality.
 
 #Core Features
 1. Authentication &amp; Roles
